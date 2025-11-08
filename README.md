@@ -124,7 +124,6 @@ Portfolio responsif yang menampilkan 8+ proyek dengan live demos dan dokumentasi
 **Key Features:**
 - ✅ Component-based React architecture
 - ✅ React Hooks for state management
-- ✅ SEO optimized & performance tuning
 - ✅ Deployed on Vercel
 
 **Tech Stack:**
