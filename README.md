@@ -255,35 +255,6 @@ Website informasi gereja dengan desain responsif dan standar aksesibilitas WCAG.
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelEbitNego&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelEbitNego&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelEbitNego&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages"/>
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelEbitNego&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelEbitNego&custom_title=Samuel's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ### 💼 Professional Experience
 
 ```yaml
