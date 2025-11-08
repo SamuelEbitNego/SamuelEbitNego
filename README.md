@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Fresh+Graduate+%7C+Information+Systems;Building+Real-World+Solutions+with+Laravel+%26+React;Open+to+Front-End+%2F+Web+Developer+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Fresh+Graduate+in+Information+Systems;Building+Solutions+with+Laravel+and+React;Open+for+Front-End+and+Web+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
   
   <!-- Contact Badges -->
   <p>
@@ -33,9 +33,10 @@ const samuel = {
         degree: "Bachelor of Information Systems",
         university: "Bina Sarana Informatika",
         gpa: "3.87/4.00",
-        graduated: "28 August 2025"
+        graduated: "August 2025"
     },
     experience: {
+        production: "Government E-Letter System",
         projects: "8+ Web-Based Projects",
         specialization: ["Responsive Design", "Database Architecture"]
     },
