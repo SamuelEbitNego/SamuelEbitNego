@@ -37,7 +37,7 @@ const samuel = {
     },
     experience: {
         production: "Government E-Letter System",
-        projects: "10+ Web-Based Projects",
+        projects: "8 Web-Based Projects",
         specialization: ["Responsive Design", "Database Architecture"]
     },
     currentStatus: "🎯 Open for Opportunities",
@@ -47,7 +47,7 @@ const samuel = {
 
 🎓 **Fresh Graduate** dari Universitas Bina Sarana Informatika (IPK: 3.87/4.00)  
 💼 **Production Experience:** Membangun sistem surat elektronik untuk Pemerintah DKI Jakarta  
-🚀 **Portfolio:** 10+ proyek website yang telah diselesaikan  
+🚀 **Portfolio:** 8 proyek website yang telah diselesaikan  
 ⚡ **Quick Learner:** Cepat beradaptasi dengan teknologi baru dan best practices  
 ✅ **Available Now:** Siap bergabung sebagai Front-End atau Web Developer
 
@@ -117,7 +117,7 @@ Sistem manajemen surat elektronik untuk **Suku Dinas Komunikasi, Informatika dan
 ### 💼 Personal Portfolio Website
 **Self Project** • *Aug - Sept 2024*
 
-Portfolio responsif yang menampilkan 10+ proyek dengan live demos dan dokumentasi teknis lengkap.
+Portfolio responsif yang menampilkan 8 proyek dengan live demos dan dokumentasi teknis lengkap.
 
 **🎯 Key Features:**
 - Component-based React architecture
