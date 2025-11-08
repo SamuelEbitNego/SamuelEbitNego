@@ -232,21 +232,6 @@ Website informasi gereja dengan desain responsif dan standar aksesibilitas WCAG.
 </div>
 
 ---
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelEbitNego&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelEbitNego&custom_title=Samuel's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ### 💼 Professional Experience
