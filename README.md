@@ -162,13 +162,12 @@ Aplikasi chat mobile real-time dengan Flutter dan SupaBase backend integration.
 #### 🛒 E-Commerce Platform
 **Academic Project** • *Mar - Jun 2023*
 
-Platform e-commerce lengkap dengan 4 kategori produk, shopping cart, dan payment gateway.
+Platform e-commerce lengkap dengan 4 kategori produk, & shopping cart
 
 **Key Features:**
 - ✅ Full CRUD admin panel
 - ✅ Shopping cart & checkout system
 - ✅ Live chat customer service
-- ✅ Payment gateway integration
 
 **Tech Stack:**
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
