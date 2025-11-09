@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20Ebit%20Nego&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20|%20Web%20Developer&descSize=18&descAlignY=51" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=Samuel%20Ebit%20Nego&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20|%20Web%20Developer&descSize=18&descAlignY=51" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
+### <span style="color: #00D9FF;">👨‍💻 About Me</span>
 
 ```javascript
 const samuel = {
@@ -45,21 +45,21 @@ const samuel = {
 };
 ```
 
-🎓 **Fresh Graduate** dari Universitas Bina Sarana Informatika (IPK: 3.87/4.00)  
-💼 **Production Experience:** Membangun sistem surat elektronik untuk Pemerintah DKI Jakarta  
-🚀 **Portfolio:** 8 proyek website yang telah diselesaikan  
-⚡ **Quick Learner:** Cepat beradaptasi dengan teknologi baru dan best practices  
-✅ **Available Now:** Siap bergabung sebagai Front-End atau Web Developer
+<span style="color: #ffffff;">🎓 **Fresh Graduate** dari Universitas Bina Sarana Informatika (IPK: 3.87/4.00)</span>  
+<span style="color: #ffffff;">💼 **Production Experience:** Membangun sistem surat elektronik untuk Pemerintah DKI Jakarta</span>  
+<span style="color: #ffffff;">🚀 **Portfolio:** 8 proyek website yang telah diselesaikan</span>  
+<span style="color: #ffffff;">⚡ **Quick Learner:** Cepat beradaptasi dengan teknologi baru dan best practices</span>  
+<span style="color: #ffffff;">✅ **Available Now:** Siap bergabung sebagai Front-End atau Web Developer</span>
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Technical Skills
+### <span style="color: #00D9FF;">🛠️ Technical Skills</span>
 
 <div align="center">
 
-#### 💻 Frontend Development
+#### <span style="color: #61DAFB;">💻 Frontend Development</span>
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,17 +67,17 @@ const samuel = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend Development
+#### <span style="color: #FF2D20;">⚙️ Backend Development</span>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📱 Mobile Development
+#### <span style="color: #02569B;">📱 Mobile Development</span>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### 🔧 Tools & Platforms
+#### <span style="color: #F05032;">🔧 Tools & Platforms</span>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -89,7 +89,7 @@ const samuel = {
 
 ---
 
-### 🚀 Featured Projects
+### <span style="color: #00D9FF;">🚀 Featured Projects</span>
 
 <table width="100%">
 
@@ -97,35 +97,35 @@ const samuel = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ E-Letter Management System
-**Government Production Project** • *Oct 2024 - Jan 2025*
+### <span style="color: #FFD700;">🏛️ E-Letter Management System</span>
+**<span style="color: #00D9FF;">Government Production Project</span>** • *Oct 2024 - Jan 2025*
 
-Sistem manajemen surat elektronik untuk **Suku Dinas Komunikasi, Informatika dan Statistik Jakarta Timur** yang saat ini digunakan dalam operasional pemerintahan.
+<span style="color: #E0E0E0;">Sistem manajemen surat elektronik untuk **Suku Dinas Komunikasi, Informatika dan Statistik Jakarta Timur** yang saat ini digunakan dalam operasional pemerintahan.</span>
 
-**🎯 Key Features:**
-- Secure authentication & role-based access control
-- Document workflow automation
-- Responsive interface design
-- Optimized MySQL database architecture
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">Secure authentication & role-based access control</span>
+- <span style="color: #FFFFFF;">Document workflow automation</span>
+- <span style="color: #FFFFFF;">Responsive interface design</span>
+- <span style="color: #FFFFFF;">Optimized MySQL database architecture</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Personal Portfolio Website
-**Self Project** • *Aug - Sept 2024*
+### <span style="color: #FFD700;">💼 Personal Portfolio Website</span>
+**<span style="color: #00D9FF;">Self Project</span>** • *Aug - Sept 2024*
 
-Portfolio responsif yang menampilkan 8 proyek dengan live demos dan dokumentasi teknis lengkap.
+<span style="color: #E0E0E0;">Portfolio responsif yang menampilkan 8 proyek dengan live demos dan dokumentasi teknis lengkap.</span>
 
-**🎯 Key Features:**
-- Component-based React architecture
-- React Hooks for state management
-- SEO optimized & performance tuning
-- Deployed on Vercel
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">Component-based React architecture</span>
+- <span style="color: #FFFFFF;">React Hooks for state management</span>
+- <span style="color: #FFFFFF;">SEO optimized & performance tuning</span>
+- <span style="color: #FFFFFF;">Deployed on Vercel</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `React.js` `JavaScript` `HTML5` `CSS3` `Vercel`
 
 🔗 **[Live Demo](https://samuel-portofolio-app-bkdk.vercel.app)**
@@ -137,35 +137,35 @@ Portfolio responsif yang menampilkan 8 proyek dengan live demos dan dokumentasi 
 <tr>
 <td width="50%" valign="top">
 
-### 💬 VigenChat Mobile App
-**Exam Year Project** • *Sept - Dec 2023*
+### <span style="color: #FFD700;">💬 VigenChat Mobile App</span>
+**<span style="color: #00D9FF;">Exam Year Project</span>** • *Sept - Dec 2023*
 
-Aplikasi chat mobile real-time dengan Flutter dan SupaBase backend integration.
+<span style="color: #E0E0E0;">Aplikasi chat mobile real-time dengan Flutter dan SupaBase backend integration.</span>
 
-**🎯 Key Features:**
-- User authentication system
-- Real-time chat rooms
-- Push notifications
-- Clean architecture pattern
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">User authentication system</span>
+- <span style="color: #FFFFFF;">Real-time chat rooms</span>
+- <span style="color: #FFFFFF;">Push notifications</span>
+- <span style="color: #FFFFFF;">Clean architecture pattern</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `Flutter` `Dart` `SupaBase`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
-**Academic Project** • *Mar - Jun 2023*
+### <span style="color: #FFD700;">🛒 E-Commerce Platform</span>
+**<span style="color: #00D9FF;">Academic Project</span>** • *Mar - Jun 2023*
 
-Platform e-commerce lengkap dengan 4 kategori produk, shopping cart, dan payment gateway.
+<span style="color: #E0E0E0;">Platform e-commerce lengkap dengan 4 kategori produk, shopping cart, dan payment gateway.</span>
 
-**🎯 Key Features:**
-- Full CRUD admin panel
-- Shopping cart & checkout system
-- Live chat customer service
-- Payment gateway integration
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">Full CRUD admin panel</span>
+- <span style="color: #FFFFFF;">Shopping cart & checkout system</span>
+- <span style="color: #FFFFFF;">Live chat customer service</span>
+- <span style="color: #FFFFFF;">Payment gateway integration</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `CodeIgniter 3` `PHP` `MySQL` `Bootstrap` `JavaScript`
 
 </td>
@@ -175,18 +175,18 @@ Platform e-commerce lengkap dengan 4 kategori produk, shopping cart, dan payment
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 AI Image Generator
-**Self Project** • *2024*
+### <span style="color: #FFD700;">🎨 AI Image Generator</span>
+**<span style="color: #00D9FF;">Self Project</span>** • *2024*
 
-Aplikasi generator gambar menggunakan AI API dengan interface yang modern dan user-friendly.
+<span style="color: #E0E0E0;">Aplikasi generator gambar menggunakan AI API dengan interface yang modern dan user-friendly.</span>
 
-**🎯 Key Features:**
-- AI-powered image generation
-- Modern & intuitive UI
-- Real-time image preview
-- Responsive design
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">AI-powered image generation</span>
+- <span style="color: #FFFFFF;">Modern & intuitive UI</span>
+- <span style="color: #FFFFFF;">Real-time image preview</span>
+- <span style="color: #FFFFFF;">Responsive design</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `React` `AI API` `JavaScript`
 
 🔗 **[View Repository](https://github.com/SamuelEbitNego/generate-image)**
@@ -194,18 +194,18 @@ Aplikasi generator gambar menggunakan AI API dengan interface yang modern dan us
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Electricity Calculator
-**Self Project** • *2024*
+### <span style="color: #FFD700;">⚡ Electricity Calculator</span>
+**<span style="color: #00D9FF;">Self Project</span>** • *2024*
 
-Aplikasi kalkulator untuk menghitung biaya listrik dengan berbagai fitur perhitungan.
+<span style="color: #E0E0E0;">Aplikasi kalkulator untuk menghitung biaya listrik dengan berbagai fitur perhitungan.</span>
 
-**🎯 Key Features:**
-- Electricity cost calculation
-- Multiple calculation modes
-- User-friendly interface
-- Accurate computation
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">Electricity cost calculation</span>
+- <span style="color: #FFFFFF;">Multiple calculation modes</span>
+- <span style="color: #FFFFFF;">User-friendly interface</span>
+- <span style="color: #FFFFFF;">Accurate computation</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `JavaScript` `HTML5` `CSS3`
 
 🔗 **[View Repository](https://github.com/SamuelEbitNego/listrik)**
@@ -217,35 +217,35 @@ Aplikasi kalkulator untuk menghitung biaya listrik dengan berbagai fitur perhitu
 <tr>
 <td width="50%" valign="top">
 
-### 🌤️ Weather Application
-**Self Project** • *Dec 2024*
+### <span style="color: #FFD700;">🌤️ Weather Application</span>
+**<span style="color: #00D9FF;">Self Project</span>** • *Dec 2024*
 
-Aplikasi cuaca real-time dengan OpenWeatherMap API integration dan geolocation.
+<span style="color: #E0E0E0;">Aplikasi cuaca real-time dengan OpenWeatherMap API integration dan geolocation.</span>
 
-**🎯 Key Features:**
-- Real-time weather data
-- Geolocation & city search
-- Autocomplete functionality
-- Fully responsive design
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">Real-time weather data</span>
+- <span style="color: #FFFFFF;">Geolocation & city search</span>
+- <span style="color: #FFFFFF;">Autocomplete functionality</span>
+- <span style="color: #FFFFFF;">Fully responsive design</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `React.js` `REST API` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ⛪ HKBP Pondok Kelapa Website
-**Community Project** • *Oct 2024*
+### <span style="color: #FFD700;">⛪ HKBP Pondok Kelapa Website</span>
+**<span style="color: #00D9FF;">Community Project</span>** • *Oct 2024*
 
-Website informasi gereja dengan desain responsif dan standar aksesibilitas WCAG.
+<span style="color: #E0E0E0;">Website informasi gereja dengan desain responsif dan standar aksesibilitas WCAG.</span>
 
-**🎯 Key Features:**
-- WCAG accessibility standards
-- Google Maps integration
-- Contact form with validation
-- Cross-browser compatibility
+**<span style="color: #00FF00;">🎯 Key Features:</span>**
+- <span style="color: #FFFFFF;">WCAG accessibility standards</span>
+- <span style="color: #FFFFFF;">Google Maps integration</span>
+- <span style="color: #FFFFFF;">Contact form with validation</span>
+- <span style="color: #FFFFFF;">Cross-browser compatibility</span>
 
-**🛠️ Tech Stack:**  
+**<span style="color: #00D9FF;">🛠️ Tech Stack:</span>**  
 `HTML5` `CSS3` `JavaScript`
 
 </td>
@@ -255,7 +255,7 @@ Website informasi gereja dengan desain responsif dan standar aksesibilitas WCAG.
 
 ---
 
-### 💼 Professional Experience
+### <span style="color: #00D9FF;">💼 Professional Experience</span>
 
 ```yaml
 Current Status: Fresh Graduate - Open for Opportunities
@@ -280,41 +280,41 @@ Recent Experience:
 
 ---
 
-### 🎓 Education
+### <span style="color: #00D9FF;">🎓 Education</span>
 
 <div align="center">
 
-**Bachelor of Information Systems**  
-Bina Sarana Informatika University, Jakarta  
-**Sept 2021 - Aug 2025**  
-**GPA: 3.87/4.00**
+<span style="color: #FFFFFF; font-size: 18px;">**Bachelor of Information Systems**</span>  
+<span style="color: #E0E0E0;">Bina Sarana Informatika University, Jakarta</span>  
+<span style="color: #00D9FF;">**Sept 2021 - Aug 2025**</span>  
+<span style="color: #FFD700;">**GPA: 3.87/4.00**</span>
 
-*Graduated: August 28, 2025*
+<span style="color: #00FF00;">*Graduated: August 28, 2025*</span>
 
 </div>
 
 ---
 
-### 💡 What I Bring to Your Team
+### <span style="color: #00D9FF;">💡 What I Bring to Your Team</span>
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### 🎯 Production Ready
-Telah mengembangkan sistem untuk produksi pemerintahan yang digunakan secara aktif
+### <span style="color: #00FF00;">🎯 Production Ready</span>
+<span style="color: #E0E0E0;">Telah mengembangkan sistem untuk produksi pemerintahan yang digunakan secara aktif</span>
 
 </td>
 <td width="33%" align="center">
 
-### ⚡ Fast Learner
-Cepat beradaptasi dengan teknologi baru dan best practices dalam development
+### <span style="color: #00FF00;">⚡ Fast Learner</span>
+<span style="color: #E0E0E0;">Cepat beradaptasi dengan teknologi baru dan best practices dalam development</span>
 
 </td>
 <td width="33%" align="center">
 
-### 🔧 Full Stack Capable
-Mampu handle dari frontend hingga database architecture
+### <span style="color: #00FF00;">🔧 Full Stack Capable</span>
+<span style="color: #E0E0E0;">Mampu handle dari frontend hingga database architecture</span>
 
 </td>
 </tr>
@@ -322,13 +322,13 @@ Mampu handle dari frontend hingga database architecture
 
 ---
 
-### 📫 Let's Connect!
+### <span style="color: #00D9FF;">📫 Let's Connect!</span>
 
 <div align="center">
 
-Saya **sangat terbuka untuk peluang Front-End Developer atau Web Developer**! Jika Anda mencari fresh graduate yang passionate, cepat belajar, dan memiliki pengalaman production-ready, mari kita diskusikan bagaimana saya bisa berkontribusi untuk tim Anda.
+<span style="color: #FFFFFF;">Saya **sangat terbuka untuk peluang Front-End Developer atau Web Developer**! Jika Anda mencari fresh graduate yang passionate, cepat belajar, dan memiliki pengalaman production-ready, mari kita diskusikan bagaimana saya bisa berkontribusi untuk tim Anda.</span>
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ebit-nego-6934002a9)
 [![Email](https://img.shields.io/badge/Email-samuelebitnego13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelebitnego13@gmail.com)
@@ -337,7 +337,7 @@ Saya **sangat terbuka untuk peluang Front-End Developer atau Web Developer**! Ji
 
 <br>
 
-**💬 "Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected." - Robert C. Martin**
+<span style="color: #E0E0E0;">**💬 "Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected." - Robert C. Martin**</span>
 
 </div>
 
@@ -345,12 +345,12 @@ Saya **sangat terbuka untuk peluang Front-End Developer atau Web Developer**! Ji
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=100&section=footer" width="100%"/>
   
-  **⭐️ If you find my projects interesting, feel free to star them!**
+  <span style="color: #FFD700;">**⭐️ If you find my projects interesting, feel free to star them!**</span>
   
   ![](https://hit.yhype.me/github/profile?user_id=SamuelEbitNego)
   
-  **Made with ❤️ and ☕ by Samuel Ebit Nego**
+  <span style="color: #00D9FF;">**Made with ❤️ and ☕ by Samuel Ebit Nego**</span>
   
 </div>
