@@ -55,7 +55,7 @@ const samuel = {
 
 ---
 
-### <span style="color: #00D9FF;">🛠️ Technical Skills</span>
+### <span style="color: #00D9FF;">🛠️ Tech</span>
 
 <div align="center">
 
